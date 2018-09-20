@@ -8,6 +8,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Test Link [link to this new page](file.html)
 
+Test Link [link to this new page](file3.md)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
